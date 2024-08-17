@@ -16,6 +16,8 @@ IoU=0.5:0.95.
 
 &nbsp; 
 
+<img width="885" alt="Screenshot 2024-08-17 at 12 26 36 PM" src="https://github.com/user-attachments/assets/be097f3a-4adb-4fbf-b93f-e7cd6fd27dd6">
+
 
 
 
