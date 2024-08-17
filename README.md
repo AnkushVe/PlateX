@@ -9,3 +9,13 @@ Tech Stack : PyTorch, Python, YOLO, Object Detection, Computer Vision
 4. Performance Metrics: Achieved a mean Average Precision (mAP) of 0.7 at loU=0.5 and 0.5 at
 IoU=0.5:0.95.
 5. Deployment: Successfully deployed the trained model using Streamlit for real-time license plate detection.
+
+
+# Images
+<img width="1022" alt="Screenshot 2024-08-17 at 12 25 51 PM" src="https://github.com/user-attachments/assets/adb9a02f-bf9d-4627-a219-85cc79da02d9">
+
+&nbsp; 
+
+
+
+
